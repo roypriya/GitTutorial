@@ -6,3 +6,4 @@ lichi
 orange
 grapes
 raisins
+guava

@@ -4,4 +4,8 @@ bananas
 papaya
 lichi
 orange
+grapes
+raisins
+guava
 jackfruit
+berries

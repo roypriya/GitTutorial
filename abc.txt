@@ -1,4 +1,6 @@
 apple
 mango
 bananas
+papaya
+lichi
 orange
